@@ -1,0 +1,12 @@
+{
+  "name": "javascript-youtube-tutorial",
+  "version": "1.0.0",
+  "description": "This repo contains the lessons and practices from the following YouTube tutorial:",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
