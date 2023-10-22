@@ -1,7 +1,6 @@
 // a variable is a container for storing data
 // a variable behaves as if it was the value that it contains
 
-
 // two steps:
 // 1. declaration (var, let, constant)
 // 2. assigment

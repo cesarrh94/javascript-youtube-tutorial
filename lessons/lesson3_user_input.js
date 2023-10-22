@@ -8,7 +8,7 @@ console.log("username:", username);
 let firstname;
 
 document.getElementById("myButton").onclick = function () {
-    firstname = document.getElementById("myText").value;
-    console.log("firstname", firstname);
-    document.getElementById("myLabel").innerHTML = "Hello, " + firstname;
-}
+  firstname = document.getElementById("myText").value;
+  console.log("firstname", firstname);
+  document.getElementById("myLabel").innerHTML = "Hello, " + firstname;
+};
