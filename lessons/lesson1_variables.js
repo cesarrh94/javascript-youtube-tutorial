@@ -3,7 +3,7 @@
 
 // two steps:
 // 1. declaration (var, let, constant)
-// 2. assigment
+// 2. assignment
 
 let firstName = "cesar";
 let age = 28;
