@@ -19,6 +19,19 @@ result = sum(2, 2)
 console.log("result:", result);
 
 
+// rest parameters, represents an indefinite number of parameters (pack arguments into an array)
+
+function multiplication(...numbers) {
+  let total = 1;
+  for (let number of numbers) {
+    total *= number;
+  }
+
+  console.log("total", total);
+}
+
+multiplication(5, 5, 5);
+
 
 
 
