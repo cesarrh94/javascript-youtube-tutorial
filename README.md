@@ -13,8 +13,11 @@ check it out later at your own pace.
 - practice3 - Number guessing program
 - practice4 - Temperature conversion program
 
+- lesson1 - Variables
 - lesson2 - Arithmetic expressions
+- lesson3 - User input
 - lesson4 - Type conversion (casting)
+- lesson5 - Constants
 - lesson6 - Math object, attributes and methods
 - lesson7 - String methods
 - lesson8 - String slicing
@@ -28,8 +31,8 @@ check it out later at your own pace.
 - lesson16 - Ternary operator
 - lesson17 - var vs let (variable scope and global variables)
 - lesson18 - Template literals
-- lesson19 -
-- lesson20 -
+- lesson19 - Arrays
+- lesson20 - Arrays 2D
 - lesson21 -
 - lesson22 -
 - lesson23 -
